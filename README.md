@@ -1,75 +1,96 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Victhor Hugo — Full-Stack Product Builder" width="100%" />
+  <img src="assets/profile-banner.png" alt="Victhor Hugo, desenvolvedor full-stack" width="100%" />
 
   <br />
 
-  <a href="https://orbit-project-ops.vercel.app"><img src="https://img.shields.io/badge/Orbit-Project%20Operations-7c3aed?style=for-the-badge" alt="Orbit" /></a>
-  <a href="https://github.com/vitorgamer778/astraea-ai"><img src="https://img.shields.io/badge/Astraea-AI%20Workspace-06b6d4?style=for-the-badge" alt="Astraea AI" /></a>
-  <a href="https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard"><img src="https://img.shields.io/badge/Nexus-Revenue%20Intelligence-10b981?style=for-the-badge" alt="Nexus" /></a>
-  <a href="https://github.com/vitorgamer778/vitrine"><img src="https://img.shields.io/badge/Vitrine-Android-64366e?style=for-the-badge&logo=android&logoColor=white" alt="Vitrine Android" /></a>
+  <a href="https://vhcodestudio.vercel.app"><img src="https://img.shields.io/badge/vhcodestudio-site%20do%20est%C3%BAdio-0b0b0c?style=for-the-badge" alt="Site do estúdio" /></a>
+  <a href="mailto:vhcodestudio@gmail.com"><img src="https://img.shields.io/badge/vhcodestudio%40gmail.com-contato-efece6?style=for-the-badge&logo=gmail&logoColor=black&labelColor=efece6" alt="E-mail" /></a>
 </div>
 
 ## Sobre mim
 
-Sou **Victhor Hugo**, desenvolvedor full-stack focado em transformar ideias ambiciosas em produtos digitais completos. Gosto de unir engenharia, experiência do usuário e identidade visual para criar aplicações rápidas, intuitivas e prontas para crescer.
+Sou **Victhor Hugo** e toco a **vhcodestudio**, um estúdio independente de produto digital. Desenho e programo sites, apps e ferramentas web do primeiro rascunho ao deploy: arquitetura, interface, testes, segurança e publicação.
 
-- Construo produtos SaaS, ferramentas com IA, experiências web responsivas e aplicativos para Android e smartphones.
-- Trabalho com **Next.js, React, React Native, Expo, TypeScript, Tailwind CSS, Supabase e PostgreSQL**.
-- Cuido do produto de ponta a ponta: arquitetura, interface, segurança, testes e deploy.
-- Atualmente evoluindo um ecossistema de produtos autorais com foco em produtividade e inteligência.
+Trabalho principalmente com Next.js, React, React Native, Expo, TypeScript, Tailwind CSS e Supabase. Todos os projetos abaixo estão no ar e têm README em português e inglês.
 
-## Projetos principais
+## Projetos novos
 
-### 🪐 Orbit — Project Operations
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://echo-vhcode.vercel.app"><img src="assets/novos/echo.jpg" alt="echo no celular" width="100%" /></a>
+      <h3><a href="https://echo-vhcode.vercel.app">echo</a></h3>
+      Um episódio de podcast entra e saem transcrição com timestamps, capítulos, resumo e posts para LinkedIn, X e Instagram. A forma de onda vira o navegador de capítulos.
+      <br /><sub>Next.js 16 · React 19 · Motion · Vitest</sub>
+      <br /><a href="https://echo-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/echo">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://habitflow-vhcode.vercel.app"><img src="assets/novos/habitflow.jpg" alt="habitflow no celular" width="100%" /></a>
+      <h3><a href="https://habitflow-vhcode.vercel.app">habitflow</a></h3>
+      App de hábitos instalável que funciona sem internet. Marcar um hábito preenche o card, a sequência rola como odômetro e as estatísticas mostram seu melhor dia da semana. Testado num Pixel 10.
+      <br /><sub>Vite · React 19 · PWA · Motion · Vitest</sub>
+      <br /><a href="https://habitflow-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/habitflow">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lumen-store-vhcode.vercel.app"><img src="assets/novos/lumen.jpg" alt="Luminária Orla acesa em 3D" width="100%" /></a>
+      <h3><a href="https://lumen-store-vhcode.vercel.app">Lumen</a></h3>
+      Loja de luminárias de uma marca fictícia. Cada peça aparece em 3D, acesa, com temperatura de cor ajustável. Checkout com Stripe em modo de teste e preços conferidos no servidor.
+      <br /><sub>Next.js 16 · React Three Fiber · Stripe · Motion</sub>
+      <br /><a href="https://lumen-store-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/lumen-store">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://outreach-vhcode.vercel.app"><img src="assets/novos/outreach.jpg" alt="Compositor de e-mail do outreach" width="100%" /></a>
+      <h3><a href="https://outreach-vhcode.vercel.app">outreach</a></h3>
+      CRM de prospecção para freelancers. Funil de arrastar, sequências de follow-up que param quando a pessoa responde e um revisor que sublinha o que soa como template no e-mail.
+      <br /><sub>Next.js 16 · TypeScript · Motion · Vitest</sub>
+      <br /><a href="https://outreach-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/outreach">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://a11y-lens-vhcode.vercel.app"><img src="assets/novos/a11y.jpg" alt="Relatório do a11y-lens" width="100%" /></a>
+      <h3><a href="https://a11y-lens-vhcode.vercel.app">a11y-lens</a></h3>
+      Cole uma URL e receba notas de acessibilidade, performance, SEO e segurança, com explicação e correção para cada problema. Exporta em Markdown, JSON ou PDF.
+      <br /><sub>Next.js 16 · node-html-parser · Motion · Vitest</sub>
+      <br /><a href="https://a11y-lens-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/a11y-lens">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://docsmith-vhcode.vercel.app"><img src="assets/novos/docsmith.jpg" alt="Documentação gerada pelo docsmith" width="100%" /></a>
+      <h3><a href="https://docsmith-vhcode.vercel.app">docsmith</a></h3>
+      Cole a URL de um repositório público e receba um site de documentação com visão geral, estrutura, comandos e API. Cada repo ganha um link próprio.
+      <br /><sub>Next.js 16 · Cache Components · GitHub API · Vitest</sub>
+      <br /><a href="https://docsmith-vhcode.vercel.app">Abrir</a> · <a href="https://github.com/vhcodestudio/docsmith">Código</a>
+    </td>
+  </tr>
+</table>
 
-Workspace de operações para planejar, priorizar e executar projetos com clareza. Inclui Kanban responsivo, atalhos de teclado, busca, filtros, roadmap e uma experiência mobile completa.
+### [vhcodestudio.vercel.app](https://vhcodestudio.vercel.app)
 
-[![Orbit — demonstração ao vivo](https://img.shields.io/badge/Abrir_demonstração-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://orbit-project-ops.vercel.app)
+O site do estúdio, com os estudos de caso de todos os projetos, serviços e processo.
 
-[![Orbit — mesma captura real utilizada no portfólio VH Code Solutions](assets/orbit-20261004-real.jpg)](https://orbit-project-ops.vercel.app/)
+[![Site da vhcodestudio](assets/novos/studio.jpg)](https://vhcodestudio.vercel.app)
 
-<sub>Imagem do portfólio principal, capturada em 04/10/2026. Dados demonstrativos; alterações ficam nesta sessão do navegador.</sub>
+<sub>Next.js 16 · Motion · [Código](https://github.com/vhcodestudio/vhcodestudio-site)</sub>
 
-### ✦ Astraea AI — Intelligent Workspace
+## Projetos anteriores
 
-Workspace premium de inteligência artificial com conversas persistentes, Markdown, blocos de código, autenticação segura e arquitetura multiusuário baseada em Supabase.
-
-[![Astraea AI — mesma captura real da tela de acesso utilizada no portfólio VH Code Solutions](assets/astraea-20261004-real.jpg)](https://astraea-ai-ten.vercel.app/)
-
-<sub>Imagem do portfólio principal, capturada em 04/10/2026. Demonstração com respostas simuladas, sem serviços externos de IA.</sub>
-
-[![Abrir repositório](https://img.shields.io/badge/Abrir_repositório-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgamer778/astraea-ai)
-
-> **Next.js 16 · React 19 · TypeScript · Supabase · Tailwind CSS**  
-> Autenticação SSR, conversas persistentes, Markdown, código formatado e experiência responsiva.
-
-### ◈ Nexus — SaaS Revenue Intelligence
-
-Plataforma SaaS multi-workspace para receita, clientes, assinaturas e crescimento. Possui demonstração pública segura, dashboards analíticos, autorização por função e isolamento de dados com RLS.
-
-[![Nexus — demonstração ao vivo](https://img.shields.io/badge/Explorar_Nexus-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard)
-
-[![Nexus — mesma captura real da página do produto utilizada no portfólio VH Code Solutions](assets/nexus-20261004-real.jpg)](https://nexus-saas-dashboard-tawny.vercel.app/)
-
-<sub>Imagem do portfólio principal, capturada em 04/10/2026. Dados fictícios, ações somente de leitura e sem acesso à produção.</sub>
-
-### Vitrine — catálogo e pedidos para Android
-
-App de portfólio para pequenos negócios, feito com **React Native, Expo e TypeScript**. Catálogo com fotografias locais, busca, filtros, carrinho, validação do pedido e acompanhamento simulado. Dados salvos no aparelho e funcionamento offline.
-
-<img src="assets/vitrine-android-20261004.png" alt="Mesma captura real do Vitrine no Android utilizada no portfólio VH Code Solutions, com catálogo da loja demonstrativa Casa Lume" width="300" />
-
-[Código e instruções](https://github.com/vitorgamer778/vitrine) · [Baixar APK demo (62 MB)](https://github.com/vitorgamer778/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Ver no portfólio](https://programador-alpha.vercel.app/#vitrine)
-
-Loja fictícia, sem pagamentos ou envio real de pedidos. APK de demonstração com assinatura de debug, testado offline no emulador Android API 36; não destinado à Play Store. Não inserir dados pessoais reais. [Evidências e limites](https://github.com/vitorgamer778/vitrine/blob/main/docs/validation.md).
+| Projeto | O que é | Links |
+|---|---|---|
+| **Orbit** | Workspace de operações com Kanban, roadmap e issues, navegável pelo teclado | [Demo](https://orbit-project-ops.vercel.app) · [Código](https://github.com/vhcodestudio/Orbit) |
+| **Astraea AI** | Workspace de IA com conversas persistentes, projetos e autenticação em Supabase | [Demo](https://astraea-ai-ten.vercel.app) · [Código](https://github.com/vhcodestudio/astraea-ai) |
+| **Nexus** | Dashboard SaaS multi-workspace de receita e clientes, com RLS no Supabase | [Demo](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard) · [Código](https://github.com/vhcodestudio/nexus-saas-dashboard) |
+| **Vitrine** | App Android de catálogo e pedidos para pequenos negócios, offline | [APK demo](https://github.com/vhcodestudio/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Código](https://github.com/vhcodestudio/vitrine) |
+| **Kurio** | Marketplace de NFTs com carteiras e transações simuladas (MSW e Socket.IO) | [Código](https://github.com/vhcodestudio/kurio-nft-marketplace) |
 
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,postgres,vercel,git&perline=8" alt="Tecnologias principais; desenvolvimento mobile com React Native e Expo" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,threejs,vite,supabase,postgres,vercel,git&perline=10" alt="Next.js, React, TypeScript, Tailwind, Three.js, Vite, Supabase, PostgreSQL, Vercel e Git" />
 </div>
 
 <div align="center">
-  <sub>Produtos digitais feitos com intenção, código e curiosidade.</sub>
+  <br />
+  <sub>Tem um projeto parado na gaveta? Escreva para <a href="mailto:vhcodestudio@gmail.com">vhcodestudio@gmail.com</a>.</sub>
 </div>
-
