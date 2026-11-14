@@ -74,15 +74,14 @@ O site do estúdio, com os estudos de caso de todos os projetos, serviços e pro
 
 <sub>Next.js 16 · Motion · [Código](https://github.com/vhcodestudio/vhcodestudio-site)</sub>
 
-## Projetos anteriores
+## Projetos anteriores, redesenhados
 
 | Projeto | O que é | Links |
 |---|---|---|
 | **Orbit** | Workspace de operações com Kanban, roadmap e issues, navegável pelo teclado | [Demo](https://orbit-project-ops.vercel.app) · [Código](https://github.com/vhcodestudio/Orbit) |
 | **Astraea AI** | Workspace de IA com conversas persistentes, projetos e autenticação em Supabase | [Demo](https://astraea-ai-ten.vercel.app) · [Código](https://github.com/vhcodestudio/astraea-ai) |
 | **Nexus** | Dashboard SaaS multi-workspace de receita e clientes, com RLS no Supabase | [Demo](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard) · [Código](https://github.com/vhcodestudio/nexus-saas-dashboard) |
-| **Vitrine** | App Android de catálogo e pedidos para pequenos negócios, offline | [APK demo](https://github.com/vhcodestudio/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Código](https://github.com/vhcodestudio/vitrine) |
-| **Kurio** | Marketplace de NFTs com carteiras e transações simuladas (MSW e Socket.IO) | [Código](https://github.com/vhcodestudio/kurio-nft-marketplace) |
+| **Vitrine** | App Android de catálogo e pedidos para pequenos negócios, offline | [Versão web](https://vitrine-vhcode.vercel.app) · [APK demo](https://github.com/vhcodestudio/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Código](https://github.com/vhcodestudio/vitrine) |
 
 ## Tecnologias
 
